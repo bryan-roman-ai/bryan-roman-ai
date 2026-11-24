@@ -1,0 +1,18 @@
+# Bryan Román
+
+Economista (UTPL) y Magíster en Transformación Digital (UNIR). 8 años en banca en Ecuador: operaciones, análisis de
+crédito y servicios. Construyo herramientas abiertas de finanzas y datos para Ecuador y Latinoamérica, con datos
+públicos oficiales y fuentes citadas.
+
+📍 Cuenca, Ecuador · [LinkedIn](https://www.linkedin.com/in/bryan-roman-ai)
+
+## Proyectos
+
+| Proyecto | Qué hace | Abrir |
+|---|---|---|
+| **Econometría de la Morosidad del Crédito de Consumo en Ecuador (2003–2025)** | Proyecto de portafolio de econometría aplicada que responde con datos públicos oficiales, limpieza auditable y pruebas formales de supuestos a la pregunta | [Demo](https://bryan-roman-ai.github.io/econometria-morosidad-ecuador/) · [Código](https://github.com/bryan-roman-ai/econometria-morosidad-ecuador) |
+| **Costo Real del Crédito** | Costo Real del Crédito es una aplicación web estática (HTML5 + CSS3 + JavaScript puro, cero dependencias externas y sin CDN) diseñada para transparentar de forma visual… | [Demo](https://bryan-roman-ai.github.io/costo-real-credito/) · [Código](https://github.com/bryan-roman-ai/costo-real-credito) |
+
+> Herramientas educativas. No son asesoría financiera.
+
+<sub>Esta portada se actualiza sola cada vez que publico un proyecto nuevo.</sub>
